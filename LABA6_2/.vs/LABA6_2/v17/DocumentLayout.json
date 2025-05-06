@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ok\\Desktop\\CPP\\LABA6_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{822A8BC2-F374-4329-96FD-35DF33212DEF}|LABA6_2\\LABA6_2.vcxproj|C:\\Users\\Ok\\Desktop\\CPP\\LABA6_2\\LABA6_2\\LABA6_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{822A8BC2-F374-4329-96FD-35DF33212DEF}|LABA6_2\\LABA6_2.vcxproj|solutionrelative:LABA6_2\\LABA6_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LABA6_2.cpp",
+              "DocumentMoniker": "C:\\Users\\Ok\\Desktop\\CPP\\LABA6_2\\LABA6_2\\LABA6_2.cpp",
+              "RelativeDocumentMoniker": "LABA6_2\\LABA6_2.cpp",
+              "ToolTip": "C:\\Users\\Ok\\Desktop\\CPP\\LABA6_2\\LABA6_2\\LABA6_2.cpp",
+              "RelativeToolTip": "LABA6_2\\LABA6_2.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-06T07:27:59.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
