@@ -1,0 +1,3 @@
+C:\Users\Ok\Desktop\CPP\LABA7\LABA7\x64\Debug\LABA7.vcxproj.AssemblyReference.cache
+C:\Users\Ok\Desktop\CPP\LABA7\LABA7\x64\Debug\LABA7.MyForm.resources
+C:\Users\Ok\Desktop\CPP\LABA7\LABA7\x64\Debug\LABA7.vcxproj.GenerateResource.cache
